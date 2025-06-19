@@ -43,11 +43,12 @@ This webpage integrates maximum content from provided videos, images, and design
   - Center image in a square frame
   - Left-aligned title overlapping image
   - Right-aligned number badge (01, 02, 03)
-  - **Read More** button opens a pop-up with event details
 - Dynamic transitions:
   - Background color changes diagonally
   - Number slides in (e.g., 1 → 2 from bottom to top)
   - Auto-cycles through the events unless hovered
+- carousel effect
+  - hove over the images shows more images for the same event
 
 ### 🫧 Background Interactivity
 - The **Demo section** has animated **orbs** in the background:
